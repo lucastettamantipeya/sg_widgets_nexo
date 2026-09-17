@@ -1,7 +1,7 @@
 {
-  "titulo": "🔴 S&G NEW BUSINESS",
-  "fecha": "17/09 11:53",
-  "general": {
+  "fecha": "17/09 15:31",
+  "general_weekly": {
+    "titulo": "🔴 S&G ARGENTINA (SEMANAL)",
     "pedidos_cw": "361.956",
     "pedidos_var": "-0,5%",
     "pedidos_var_num": -0.5314792931929979,
@@ -9,61 +9,181 @@
     "gfv_var": "-7,4%",
     "gfv_var_num": -7.418508920103465
   },
-  "segmentos": [
-    {
-      "vertical": "Pets",
-      "orders_lw": 10417,
-      "orders_cw": 10735,
-      "orders_var": "+3,1%",
-      "orders_var_num": 3.052702313525967,
-      "gfv_lw": 362455927.91,
-      "gfv_cw": 360061850,
-      "gfv_var": "-0,7%",
-      "gfv_var_num": -0.6605155898000625
-    },
+  "general_live": {
+    "titulo": "⚡ S&G ARGENTINA (STREAM LIVE)",
+    "pedidos_hoy": "41.730",
+    "vfr_pct": "1,3%",
+    "vfr_pct_num": 1.268158803766621,
+    "gfv_hoy": "$2.174.368K ARS",
+    "gfv_hoy_num": 2174367593.82,
+    "found_rate": "98,86%",
+    "found_rate_num": 98.86,
+    "partners": "2.298"
+  },
+  "segmentos_weekly": [
     {
       "vertical": "Drinks",
-      "orders_lw": 13258,
       "orders_cw": 14703,
       "orders_var": "+10,9%",
       "orders_var_num": 10.899079800874944,
-      "gfv_lw": 307126348.87,
       "gfv_cw": 314679558,
       "gfv_var": "+2,5%",
       "gfv_var_num": 2.459316550921232
     },
     {
-      "vertical": "Other Markets",
-      "orders_lw": 33283,
-      "orders_cw": 33108,
-      "orders_var": "-0,5%",
-      "orders_var_num": -0.5257939488627827,
-      "gfv_lw": 1065015539.7960002,
-      "gfv_cw": 1000758417,
-      "gfv_var": "-6,0%",
-      "gfv_var_num": -6.033444620752524
+      "vertical": "Pets",
+      "orders_cw": 10735,
+      "orders_var": "+3,1%",
+      "orders_var_num": 3.052702313525967,
+      "gfv_cw": 360061850,
+      "gfv_var": "-0,7%",
+      "gfv_var_num": -0.6605155898000625
     },
     {
       "vertical": "Pharmacy",
-      "orders_lw": 40622,
       "orders_cw": 40105,
       "orders_var": "-1,3%",
       "orders_var_num": -1.272709369307272,
-      "gfv_lw": 905109726.588,
       "gfv_cw": 834281188,
       "gfv_var": "-7,8%",
       "gfv_var_num": -7.825409064490225
     },
     {
+      "vertical": "Other Markets",
+      "orders_cw": 33108,
+      "orders_var": "-0,5%",
+      "orders_var_num": -0.5257939488627827,
+      "gfv_cw": 1000758417,
+      "gfv_var": "-6%",
+      "gfv_var_num": -6.0334446207525145
+    },
+    {
       "vertical": "Kiosks",
-      "orders_lw": 80934,
       "orders_cw": 82471,
       "orders_var": "+1,9%",
       "orders_var_num": 1.8990782612993302,
-      "gfv_lw": 1362780204.8979998,
       "gfv_cw": 1269020609,
       "gfv_var": "-6,9%",
       "gfv_var_num": -6.880023320049427
+    },
+    {
+      "vertical": "Supermarkets AAA & AA",
+      "orders_cw": 180834,
+      "orders_var": "-2,5%",
+      "orders_var_num": -2.450155359917141,
+      "gfv_cw": 6414030289,
+      "gfv_var": "-8,5%",
+      "gfv_var_num": -8.463718514774483
+    }
+  ],
+  "segmentos_live": [
+    {
+      "vertical": "Dmarts",
+      "orders_live": 24309,
+      "vfr_pct": "0,8%",
+      "vfr_pct_num": 0.8443465491923642,
+      "gfv_live": 1314221341.56,
+      "found_rate": "100%",
+      "found_rate_num": 99.97
+    },
+    {
+      "vertical": "Supermarkets AAA & AA No Shopper",
+      "orders_live": 4827,
+      "vfr_pct": "1,8%",
+      "vfr_pct_num": 1.7704517704517704,
+      "gfv_live": 262454244.31,
+      "found_rate": "96,9%",
+      "found_rate_num": 96.9
+    },
+    {
+      "vertical": "Pharmacy",
+      "orders_live": 2206,
+      "vfr_pct": "3,1%",
+      "vfr_pct_num": 3.0755711775043935,
+      "gfv_live": 68585879.74,
+      "found_rate": "97,9%",
+      "found_rate_num": 97.87
+    },
+    {
+      "vertical": "Drinks",
+      "orders_live": 288,
+      "vfr_pct": "4,3%",
+      "vfr_pct_num": 4.318936877076411,
+      "gfv_live": 6045939.26,
+      "found_rate": "99%",
+      "found_rate_num": 98.96
+    },
+    {
+      "vertical": "Frutas y Verduras",
+      "orders_live": 302,
+      "vfr_pct": "2,3%",
+      "vfr_pct_num": 2.26537216828479,
+      "gfv_live": 10852063.36,
+      "found_rate": "98,8%",
+      "found_rate_num": 98.77
+    },
+    {
+      "vertical": "Quesos y Fiambres",
+      "orders_live": 74,
+      "vfr_pct": "2,6%",
+      "vfr_pct_num": 2.631578947368421,
+      "gfv_live": 2476919.56,
+      "found_rate": "98%",
+      "found_rate_num": 98.04
+    },
+    {
+      "vertical": "Tiendas Saludables",
+      "orders_live": 107,
+      "vfr_pct": "2,7%",
+      "vfr_pct_num": 2.727272727272727,
+      "gfv_live": 3169173,
+      "found_rate": "98,4%",
+      "found_rate_num": 98.42
+    },
+    {
+      "vertical": "Carnes y Pescados",
+      "orders_live": 496,
+      "vfr_pct": "1,4%",
+      "vfr_pct_num": 1.3916500994035785,
+      "gfv_live": 27972766.36,
+      "found_rate": "99,6%",
+      "found_rate_num": 99.55
+    },
+    {
+      "vertical": "Supermarkets AAA & AA Shopper",
+      "orders_live": 4900,
+      "vfr_pct": "1,1%",
+      "vfr_pct_num": 1.1299435028248588,
+      "gfv_live": 386321161.03,
+      "found_rate": "96,9%",
+      "found_rate_num": 96.87
+    },
+    {
+      "vertical": "Kiosks",
+      "orders_live": 3197,
+      "vfr_pct": "2,1%",
+      "vfr_pct_num": 2.082695252679939,
+      "gfv_live": 52451598.71,
+      "found_rate": "99,5%",
+      "found_rate_num": 99.49
+    },
+    {
+      "vertical": "Pets",
+      "orders_live": 579,
+      "vfr_pct": "2%",
+      "vfr_pct_num": 2.030456852791878,
+      "gfv_live": 26062458.4,
+      "found_rate": "97,9%",
+      "found_rate_num": 97.9
+    },
+    {
+      "vertical": "Fábricas de Pastas",
+      "orders_live": 158,
+      "vfr_pct": "0%",
+      "vfr_pct_num": 0,
+      "gfv_live": 6437002,
+      "found_rate": "99,8%",
+      "found_rate_num": 99.76
     }
   ]
 }
