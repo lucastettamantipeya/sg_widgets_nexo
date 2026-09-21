@@ -1,5 +1,5 @@
 {
-  "fecha": "21/09 09:02",
+  "fecha": "21/09 11:11",
   "semanal": {
     "titulo": "🔴 S&G ARGENTINA (SEMANAL)",
     "pedidos_cw": "369.676",
@@ -7,17 +7,17 @@
     "pedidos_var_num": 3.56201377741546,
     "gfv_cw": "$10.292,6M ARS",
     "gfv_var": "-2,9%",
-    "gfv_var_num": -2.8703504042026977
+    "gfv_var_num": -2.8703504042026804
   },
   "live_diario": {
     "titulo": "⚡ S&G ARGENTINA (STREAM LIVE)",
-    "pedidos_hoy": "4.169",
-    "vfr_pct": "3,4%",
-    "vfr_pct_num": 3.383545770567787,
-    "gfv_hoy": "$134.153K ARS",
-    "gfv_hoy_num": 134153322.82,
-    "found_rate": "99,6%",
-    "found_rate_num": 99.6,
-    "partners": "646"
+    "pedidos_hoy": "16.030",
+    "vfr_pct": "1,7%",
+    "vfr_pct_num": 1.680569185475957,
+    "gfv_hoy": "$769.475K ARS",
+    "gfv_hoy_num": 769475146.34,
+    "found_rate": "99,07%",
+    "found_rate_num": 99.07,
+    "partners": "1.603"
   }
 }
